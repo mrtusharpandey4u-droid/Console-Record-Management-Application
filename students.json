@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1001,
+        "name": "Aarav Mehta",
+        "age": 20,
+        "course": "Computer Science",
+        "grade": "A+",
+        "phone": "9876543210"
+    },
+    {
+        "id": 1002,
+        "name": "Shubham",
+        "age": 21,
+        "course": "Data Science",
+        "grade": "A",
+        "phone": "9123456789"
+    },
+    {
+        "id": 1003,
+        "name": "Rohan Gupta",
+        "age": 19,
+        "course": "Computer Science",
+        "grade": "B+",
+        "phone": "9988776655"
+    },
+    {
+        "id": 1004,
+        "name": "Sneha Trivedi",
+        "age": 22,
+        "course": "Artificial Intelligence",
+        "grade": "A",
+        "phone": "8877665544"
+    },
+    {
+        "id": 1005,
+        "name": "Vikram Makhija",
+        "age": 20,
+        "course": "Data Science",
+        "grade": "B",
+        "phone": "7766554433"
+    },
+    {
+        "id": 1006,
+        "name": "Tushar Pandey",
+        "age": 22,
+        "course": "Mca",
+        "grade": "A",
+        "phone": "9820065097"
+    }
+]
