@@ -208,12 +208,12 @@ Records are stored in `students.json` using the following structure:
 
 ## 🔗 GitHub Repository
 
-**Repository URL:** `https://github.com/your-username/PYDA-1`
+**Repository URL:** `(https://github.com/mrtusharpandey4u-droid/Console-Record-Management-Application)`
 
 ---
 
 ## 👤 Author
 
-- **Name:** Tushar
+- **Name:** Tushar Pandey
 - **Course:** Python for Data Analytics (PYDA)
-- **Date:** September 2026
+- **Date:** 23rd September 2026
