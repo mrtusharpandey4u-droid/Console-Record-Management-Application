@@ -63,8 +63,7 @@ PYDA - 1/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PYDA-1.git
-   cd PYDA-1
+   git clone https://github.com/mrtusharpandey4u-droid/Console-Record-Management-Application.git
    ```
 
 2. **Run the application:**
